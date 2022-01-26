@@ -1,0 +1,160 @@
+/Users/parker/Desktop/SCHOOL/WINTER 2022/IS 413/Mission Assignments/mission4/mission4/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/parker/Desktop/SCHOOL/WINTER 2022/IS 413/Mission Assignments/mission4/mission4/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/parker/Desktop/SCHOOL/WINTER 2022/IS 413/Mission Assignments/mission4/mission4/bin/Debug/netcoreapp3.1/mission4.deps.json
+/Users/parker/Desktop/SCHOOL/WINTER 2022/IS 413/Mission Assignments/mission4/mission4/bin/Debug/netcoreapp3.1/mission4.runtimeconfig.json
+/Users/parker/Desktop/SCHOOL/WINTER 2022/IS 413/Mission Assignments/mission4/mission4/bin/Debug/netcoreapp3.1/mission4.runtimeconfig.dev.json
+/Users/parker/Desktop/SCHOOL/WINTER 2022/IS 413/Mission Assignments/mission4/mission4/bin/Debug/netcoreapp3.1/mission4.dll
+/Users/parker/Desktop/SCHOOL/WINTER 2022/IS 413/Mission Assignments/mission4/mission4/bin/Debug/netcoreapp3.1/mission4.pdb
+/Users/parker/Desktop/SCHOOL/WINTER 2022/IS 413/Mission Assignments/mission4/mission4/bin/Debug/netcoreapp3.1/mission4.Views.dll
+/Users/parker/Desktop/SCHOOL/WINTER 2022/IS 413/Mission Assignments/mission4/mission4/bin/Debug/netcoreapp3.1/mission4.Views.pdb
+/Users/parker/Desktop/SCHOOL/WINTER 2022/IS 413/Mission Assignments/mission4/mission4/obj/Debug/netcoreapp3.1/mission4.csproj.AssemblyReference.cache
+/Users/parker/Desktop/SCHOOL/WINTER 2022/IS 413/Mission Assignments/mission4/mission4/obj/Debug/netcoreapp3.1/mission4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/parker/Desktop/SCHOOL/WINTER 2022/IS 413/Mission Assignments/mission4/mission4/obj/Debug/netcoreapp3.1/mission4.AssemblyInfoInputs.cache
+/Users/parker/Desktop/SCHOOL/WINTER 2022/IS 413/Mission Assignments/mission4/mission4/obj/Debug/netcoreapp3.1/mission4.AssemblyInfo.cs
+/Users/parker/Desktop/SCHOOL/WINTER 2022/IS 413/Mission Assignments/mission4/mission4/obj/Debug/netcoreapp3.1/mission4.csproj.CoreCompileInputs.cache
+/Users/parker/Desktop/SCHOOL/WINTER 2022/IS 413/Mission Assignments/mission4/mission4/obj/Debug/netcoreapp3.1/mission4.MvcApplicationPartsAssemblyInfo.cache
+/Users/parker/Desktop/SCHOOL/WINTER 2022/IS 413/Mission Assignments/mission4/mission4/obj/Debug/netcoreapp3.1/mission4.RazorAssemblyInfo.cache
+/Users/parker/Desktop/SCHOOL/WINTER 2022/IS 413/Mission Assignments/mission4/mission4/obj/Debug/netcoreapp3.1/mission4.RazorAssemblyInfo.cs
+/Users/parker/Desktop/SCHOOL/WINTER 2022/IS 413/Mission Assignments/mission4/mission4/obj/Debug/netcoreapp3.1/staticwebassets/mission4.StaticWebAssets.Manifest.cache
+/Users/parker/Desktop/SCHOOL/WINTER 2022/IS 413/Mission Assignments/mission4/mission4/obj/Debug/netcoreapp3.1/staticwebassets/mission4.StaticWebAssets.xml
+/Users/parker/Desktop/SCHOOL/WINTER 2022/IS 413/Mission Assignments/mission4/mission4/obj/Debug/netcoreapp3.1/scopedcss/bundle/mission4.styles.css
+/Users/parker/Desktop/SCHOOL/WINTER 2022/IS 413/Mission Assignments/mission4/mission4/obj/Debug/netcoreapp3.1/mission4.TagHelpers.input.cache
+/Users/parker/Desktop/SCHOOL/WINTER 2022/IS 413/Mission Assignments/mission4/mission4/obj/Debug/netcoreapp3.1/mission4.TagHelpers.output.cache
+/Users/parker/Desktop/SCHOOL/WINTER 2022/IS 413/Mission Assignments/mission4/mission4/obj/Debug/netcoreapp3.1/mission4.RazorCoreGenerate.cache
+/Users/parker/Desktop/SCHOOL/WINTER 2022/IS 413/Mission Assignments/mission4/mission4/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+/Users/parker/Desktop/SCHOOL/WINTER 2022/IS 413/Mission Assignments/mission4/mission4/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/parker/Desktop/SCHOOL/WINTER 2022/IS 413/Mission Assignments/mission4/mission4/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/parker/Desktop/SCHOOL/WINTER 2022/IS 413/Mission Assignments/mission4/mission4/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/parker/Desktop/SCHOOL/WINTER 2022/IS 413/Mission Assignments/mission4/mission4/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/parker/Desktop/SCHOOL/WINTER 2022/IS 413/Mission Assignments/mission4/mission4/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/parker/Desktop/SCHOOL/WINTER 2022/IS 413/Mission Assignments/mission4/mission4/obj/Debug/netcoreapp3.1/mission4.RazorTargetAssemblyInfo.cache
+/Users/parker/Desktop/SCHOOL/WINTER 2022/IS 413/Mission Assignments/mission4/mission4/obj/Debug/netcoreapp3.1/mission4.RazorTargetAssemblyInfo.cs
+/Users/parker/Desktop/SCHOOL/WINTER 2022/IS 413/Mission Assignments/mission4/mission4/obj/Debug/netcoreapp3.1/mission4.Views.pdb
+/Users/parker/Desktop/SCHOOL/WINTER 2022/IS 413/Mission Assignments/mission4/mission4/obj/Debug/netcoreapp3.1/mission4.dll
+/Users/parker/Desktop/SCHOOL/WINTER 2022/IS 413/Mission Assignments/mission4/mission4/obj/Debug/netcoreapp3.1/mission4.pdb
+/Users/parker/Desktop/SCHOOL/WINTER 2022/IS 413/Mission Assignments/mission4/mission4/obj/Debug/netcoreapp3.1/mission4.genruntimeconfig.cache
+/Users/parker/Desktop/SCHOOL/WINTER 2022/IS 413/Mission Assignments/mission4/mission4/obj/Debug/netcoreapp3.1/mission4.csproj.CopyComplete
+/Users/parker/Desktop/SCHOOL/WINTER 2022/IS 413/Mission Assignments/mission4/mission4/obj/Debug/netcoreapp3.1/Razor/Views/Home/FIlmForm.cshtml.g.cs
+/Users/parker/Desktop/SCHOOL/WINTER 2022/IS 413/Mission Assignments/mission4/mission4/obj/Debug/netcoreapp3.1/Razor/Views/Home/Podcasts.cshtml.g.cs
+/Users/parker/Desktop/SCHOOL/WINTER 2022/IS 413/Mission Assignments/mission4/mission4/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/parker/Desktop/SCHOOL/WINTER 2022/IS 413/Mission Assignments/mission4/mission4/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+/Users/parker/Desktop/SCHOOL/WINTER 2022/IS 413/Mission Assignments/mission4/mission4/bin/Debug/netcoreapp3.1/Microsoft.Data.Sqlite.dll
+/Users/parker/Desktop/SCHOOL/WINTER 2022/IS 413/Mission Assignments/mission4/mission4/bin/Debug/netcoreapp3.1/Microsoft.DotNet.PlatformAbstractions.dll
+/Users/parker/Desktop/SCHOOL/WINTER 2022/IS 413/Mission Assignments/mission4/mission4/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/Users/parker/Desktop/SCHOOL/WINTER 2022/IS 413/Mission Assignments/mission4/mission4/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/parker/Desktop/SCHOOL/WINTER 2022/IS 413/Mission Assignments/mission4/mission4/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+/Users/parker/Desktop/SCHOOL/WINTER 2022/IS 413/Mission Assignments/mission4/mission4/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/parker/Desktop/SCHOOL/WINTER 2022/IS 413/Mission Assignments/mission4/mission4/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/parker/Desktop/SCHOOL/WINTER 2022/IS 413/Mission Assignments/mission4/mission4/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/parker/Desktop/SCHOOL/WINTER 2022/IS 413/Mission Assignments/mission4/mission4/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/Users/parker/Desktop/SCHOOL/WINTER 2022/IS 413/Mission Assignments/mission4/mission4/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+/Users/parker/Desktop/SCHOOL/WINTER 2022/IS 413/Mission Assignments/mission4/mission4/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/parker/Desktop/SCHOOL/WINTER 2022/IS 413/Mission Assignments/mission4/mission4/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+/Users/parker/Desktop/SCHOOL/WINTER 2022/IS 413/Mission Assignments/mission4/mission4/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/Users/parker/Desktop/SCHOOL/WINTER 2022/IS 413/Mission Assignments/mission4/mission4/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/parker/Desktop/SCHOOL/WINTER 2022/IS 413/Mission Assignments/mission4/mission4/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyModel.dll
+/Users/parker/Desktop/SCHOOL/WINTER 2022/IS 413/Mission Assignments/mission4/mission4/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/Users/parker/Desktop/SCHOOL/WINTER 2022/IS 413/Mission Assignments/mission4/mission4/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/parker/Desktop/SCHOOL/WINTER 2022/IS 413/Mission Assignments/mission4/mission4/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/Users/parker/Desktop/SCHOOL/WINTER 2022/IS 413/Mission Assignments/mission4/mission4/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/Users/parker/Desktop/SCHOOL/WINTER 2022/IS 413/Mission Assignments/mission4/mission4/bin/Debug/netcoreapp3.1/SQLitePCLRaw.batteries_v2.dll
+/Users/parker/Desktop/SCHOOL/WINTER 2022/IS 413/Mission Assignments/mission4/mission4/bin/Debug/netcoreapp3.1/SQLitePCLRaw.nativelibrary.dll
+/Users/parker/Desktop/SCHOOL/WINTER 2022/IS 413/Mission Assignments/mission4/mission4/bin/Debug/netcoreapp3.1/SQLitePCLRaw.core.dll
+/Users/parker/Desktop/SCHOOL/WINTER 2022/IS 413/Mission Assignments/mission4/mission4/bin/Debug/netcoreapp3.1/SQLitePCLRaw.provider.dynamic_cdecl.dll
+/Users/parker/Desktop/SCHOOL/WINTER 2022/IS 413/Mission Assignments/mission4/mission4/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+/Users/parker/Desktop/SCHOOL/WINTER 2022/IS 413/Mission Assignments/mission4/mission4/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+/Users/parker/Desktop/SCHOOL/WINTER 2022/IS 413/Mission Assignments/mission4/mission4/bin/Debug/netcoreapp3.1/System.Text.Json.dll
+/Users/parker/Desktop/SCHOOL/WINTER 2022/IS 413/Mission Assignments/mission4/mission4/bin/Debug/netcoreapp3.1/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/parker/Desktop/SCHOOL/WINTER 2022/IS 413/Mission Assignments/mission4/mission4/bin/Debug/netcoreapp3.1/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/parker/Desktop/SCHOOL/WINTER 2022/IS 413/Mission Assignments/mission4/mission4/bin/Debug/netcoreapp3.1/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/parker/Desktop/SCHOOL/WINTER 2022/IS 413/Mission Assignments/mission4/mission4/bin/Debug/netcoreapp3.1/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/parker/Desktop/SCHOOL/WINTER 2022/IS 413/Mission Assignments/mission4/mission4/bin/Debug/netcoreapp3.1/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/parker/Desktop/SCHOOL/WINTER 2022/IS 413/Mission Assignments/mission4/mission4/bin/Debug/netcoreapp3.1/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/parker/Desktop/SCHOOL/WINTER 2022/IS 413/Mission Assignments/mission4/mission4/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/parker/Desktop/SCHOOL/WINTER 2022/IS 413/Mission Assignments/mission4/mission4/bin/Debug/netcoreapp3.1/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/parker/Desktop/SCHOOL/WINTER 2022/IS 413/Mission Assignments/mission4/mission4/bin/Debug/netcoreapp3.1/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/parker/Desktop/SCHOOL/WINTER 2022/IS 413/Mission Assignments/mission4/mission4/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/e_sqlite3.dll
+/Users/parker/Desktop/SCHOOL/WINTER 2022/IS 413/Mission Assignments/mission4/mission4/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/parker/Desktop/SCHOOL/WINTER 2022/IS 413/Mission Assignments/mission4/mission4/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/e_sqlite3.dll
+/Users/parker/Desktop/SCHOOL/WINTER 2022/IS 413/Mission Assignments/mission4/mission4/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/e_sqlite3.dll
+/Users/parker/Desktop/SCHOOL/WINTER 2022/IS 413/Mission Assignments/mission4/mission4/obj/Debug/netcoreapp3.1/Razor/Views/Home/Confirmation.cshtml.g.cs
+/Users/parker/Desktop/SCHOOL/WINTER_2022/IS413/MissionAssignments/mission4/mission4/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/parker/Desktop/SCHOOL/WINTER_2022/IS413/MissionAssignments/mission4/mission4/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/parker/Desktop/SCHOOL/WINTER_2022/IS413/MissionAssignments/mission4/mission4/bin/Debug/netcoreapp3.1/mission4.deps.json
+/Users/parker/Desktop/SCHOOL/WINTER_2022/IS413/MissionAssignments/mission4/mission4/bin/Debug/netcoreapp3.1/mission4.runtimeconfig.json
+/Users/parker/Desktop/SCHOOL/WINTER_2022/IS413/MissionAssignments/mission4/mission4/bin/Debug/netcoreapp3.1/mission4.runtimeconfig.dev.json
+/Users/parker/Desktop/SCHOOL/WINTER_2022/IS413/MissionAssignments/mission4/mission4/bin/Debug/netcoreapp3.1/mission4.dll
+/Users/parker/Desktop/SCHOOL/WINTER_2022/IS413/MissionAssignments/mission4/mission4/bin/Debug/netcoreapp3.1/mission4.pdb
+/Users/parker/Desktop/SCHOOL/WINTER_2022/IS413/MissionAssignments/mission4/mission4/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/parker/Desktop/SCHOOL/WINTER_2022/IS413/MissionAssignments/mission4/mission4/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+/Users/parker/Desktop/SCHOOL/WINTER_2022/IS413/MissionAssignments/mission4/mission4/bin/Debug/netcoreapp3.1/Microsoft.Data.Sqlite.dll
+/Users/parker/Desktop/SCHOOL/WINTER_2022/IS413/MissionAssignments/mission4/mission4/bin/Debug/netcoreapp3.1/Microsoft.DotNet.PlatformAbstractions.dll
+/Users/parker/Desktop/SCHOOL/WINTER_2022/IS413/MissionAssignments/mission4/mission4/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/Users/parker/Desktop/SCHOOL/WINTER_2022/IS413/MissionAssignments/mission4/mission4/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/parker/Desktop/SCHOOL/WINTER_2022/IS413/MissionAssignments/mission4/mission4/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+/Users/parker/Desktop/SCHOOL/WINTER_2022/IS413/MissionAssignments/mission4/mission4/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/parker/Desktop/SCHOOL/WINTER_2022/IS413/MissionAssignments/mission4/mission4/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/parker/Desktop/SCHOOL/WINTER_2022/IS413/MissionAssignments/mission4/mission4/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/parker/Desktop/SCHOOL/WINTER_2022/IS413/MissionAssignments/mission4/mission4/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/Users/parker/Desktop/SCHOOL/WINTER_2022/IS413/MissionAssignments/mission4/mission4/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+/Users/parker/Desktop/SCHOOL/WINTER_2022/IS413/MissionAssignments/mission4/mission4/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/parker/Desktop/SCHOOL/WINTER_2022/IS413/MissionAssignments/mission4/mission4/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+/Users/parker/Desktop/SCHOOL/WINTER_2022/IS413/MissionAssignments/mission4/mission4/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/Users/parker/Desktop/SCHOOL/WINTER_2022/IS413/MissionAssignments/mission4/mission4/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/parker/Desktop/SCHOOL/WINTER_2022/IS413/MissionAssignments/mission4/mission4/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyModel.dll
+/Users/parker/Desktop/SCHOOL/WINTER_2022/IS413/MissionAssignments/mission4/mission4/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/Users/parker/Desktop/SCHOOL/WINTER_2022/IS413/MissionAssignments/mission4/mission4/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/parker/Desktop/SCHOOL/WINTER_2022/IS413/MissionAssignments/mission4/mission4/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/Users/parker/Desktop/SCHOOL/WINTER_2022/IS413/MissionAssignments/mission4/mission4/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/Users/parker/Desktop/SCHOOL/WINTER_2022/IS413/MissionAssignments/mission4/mission4/bin/Debug/netcoreapp3.1/SQLitePCLRaw.batteries_v2.dll
+/Users/parker/Desktop/SCHOOL/WINTER_2022/IS413/MissionAssignments/mission4/mission4/bin/Debug/netcoreapp3.1/SQLitePCLRaw.nativelibrary.dll
+/Users/parker/Desktop/SCHOOL/WINTER_2022/IS413/MissionAssignments/mission4/mission4/bin/Debug/netcoreapp3.1/SQLitePCLRaw.core.dll
+/Users/parker/Desktop/SCHOOL/WINTER_2022/IS413/MissionAssignments/mission4/mission4/bin/Debug/netcoreapp3.1/SQLitePCLRaw.provider.dynamic_cdecl.dll
+/Users/parker/Desktop/SCHOOL/WINTER_2022/IS413/MissionAssignments/mission4/mission4/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+/Users/parker/Desktop/SCHOOL/WINTER_2022/IS413/MissionAssignments/mission4/mission4/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+/Users/parker/Desktop/SCHOOL/WINTER_2022/IS413/MissionAssignments/mission4/mission4/bin/Debug/netcoreapp3.1/System.Text.Json.dll
+/Users/parker/Desktop/SCHOOL/WINTER_2022/IS413/MissionAssignments/mission4/mission4/bin/Debug/netcoreapp3.1/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/parker/Desktop/SCHOOL/WINTER_2022/IS413/MissionAssignments/mission4/mission4/bin/Debug/netcoreapp3.1/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/parker/Desktop/SCHOOL/WINTER_2022/IS413/MissionAssignments/mission4/mission4/bin/Debug/netcoreapp3.1/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/parker/Desktop/SCHOOL/WINTER_2022/IS413/MissionAssignments/mission4/mission4/bin/Debug/netcoreapp3.1/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/parker/Desktop/SCHOOL/WINTER_2022/IS413/MissionAssignments/mission4/mission4/bin/Debug/netcoreapp3.1/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/parker/Desktop/SCHOOL/WINTER_2022/IS413/MissionAssignments/mission4/mission4/bin/Debug/netcoreapp3.1/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/parker/Desktop/SCHOOL/WINTER_2022/IS413/MissionAssignments/mission4/mission4/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/parker/Desktop/SCHOOL/WINTER_2022/IS413/MissionAssignments/mission4/mission4/bin/Debug/netcoreapp3.1/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/parker/Desktop/SCHOOL/WINTER_2022/IS413/MissionAssignments/mission4/mission4/bin/Debug/netcoreapp3.1/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/parker/Desktop/SCHOOL/WINTER_2022/IS413/MissionAssignments/mission4/mission4/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/e_sqlite3.dll
+/Users/parker/Desktop/SCHOOL/WINTER_2022/IS413/MissionAssignments/mission4/mission4/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/parker/Desktop/SCHOOL/WINTER_2022/IS413/MissionAssignments/mission4/mission4/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/e_sqlite3.dll
+/Users/parker/Desktop/SCHOOL/WINTER_2022/IS413/MissionAssignments/mission4/mission4/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/e_sqlite3.dll
+/Users/parker/Desktop/SCHOOL/WINTER_2022/IS413/MissionAssignments/mission4/mission4/obj/Debug/netcoreapp3.1/mission4.csproj.AssemblyReference.cache
+/Users/parker/Desktop/SCHOOL/WINTER_2022/IS413/MissionAssignments/mission4/mission4/obj/Debug/netcoreapp3.1/mission4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/parker/Desktop/SCHOOL/WINTER_2022/IS413/MissionAssignments/mission4/mission4/obj/Debug/netcoreapp3.1/mission4.AssemblyInfoInputs.cache
+/Users/parker/Desktop/SCHOOL/WINTER_2022/IS413/MissionAssignments/mission4/mission4/obj/Debug/netcoreapp3.1/mission4.AssemblyInfo.cs
+/Users/parker/Desktop/SCHOOL/WINTER_2022/IS413/MissionAssignments/mission4/mission4/obj/Debug/netcoreapp3.1/mission4.csproj.CoreCompileInputs.cache
+/Users/parker/Desktop/SCHOOL/WINTER_2022/IS413/MissionAssignments/mission4/mission4/obj/Debug/netcoreapp3.1/mission4.MvcApplicationPartsAssemblyInfo.cache
+/Users/parker/Desktop/SCHOOL/WINTER_2022/IS413/MissionAssignments/mission4/mission4/obj/Debug/netcoreapp3.1/mission4.RazorAssemblyInfo.cache
+/Users/parker/Desktop/SCHOOL/WINTER_2022/IS413/MissionAssignments/mission4/mission4/obj/Debug/netcoreapp3.1/mission4.RazorAssemblyInfo.cs
+/Users/parker/Desktop/SCHOOL/WINTER_2022/IS413/MissionAssignments/mission4/mission4/obj/Debug/netcoreapp3.1/staticwebassets/mission4.StaticWebAssets.Manifest.cache
+/Users/parker/Desktop/SCHOOL/WINTER_2022/IS413/MissionAssignments/mission4/mission4/obj/Debug/netcoreapp3.1/staticwebassets/mission4.StaticWebAssets.xml
+/Users/parker/Desktop/SCHOOL/WINTER_2022/IS413/MissionAssignments/mission4/mission4/obj/Debug/netcoreapp3.1/scopedcss/bundle/mission4.styles.css
+/Users/parker/Desktop/SCHOOL/WINTER_2022/IS413/MissionAssignments/mission4/mission4/obj/Debug/netcoreapp3.1/mission4.TagHelpers.input.cache
+/Users/parker/Desktop/SCHOOL/WINTER_2022/IS413/MissionAssignments/mission4/mission4/obj/Debug/netcoreapp3.1/mission4.TagHelpers.output.cache
+/Users/parker/Desktop/SCHOOL/WINTER_2022/IS413/MissionAssignments/mission4/mission4/obj/Debug/netcoreapp3.1/mission4.RazorCoreGenerate.cache
+/Users/parker/Desktop/SCHOOL/WINTER_2022/IS413/MissionAssignments/mission4/mission4/obj/Debug/netcoreapp3.1/Razor/Views/Home/Confirmation.cshtml.g.cs
+/Users/parker/Desktop/SCHOOL/WINTER_2022/IS413/MissionAssignments/mission4/mission4/obj/Debug/netcoreapp3.1/Razor/Views/Home/FIlmForm.cshtml.g.cs
+/Users/parker/Desktop/SCHOOL/WINTER_2022/IS413/MissionAssignments/mission4/mission4/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+/Users/parker/Desktop/SCHOOL/WINTER_2022/IS413/MissionAssignments/mission4/mission4/obj/Debug/netcoreapp3.1/Razor/Views/Home/Podcasts.cshtml.g.cs
+/Users/parker/Desktop/SCHOOL/WINTER_2022/IS413/MissionAssignments/mission4/mission4/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/parker/Desktop/SCHOOL/WINTER_2022/IS413/MissionAssignments/mission4/mission4/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/parker/Desktop/SCHOOL/WINTER_2022/IS413/MissionAssignments/mission4/mission4/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/parker/Desktop/SCHOOL/WINTER_2022/IS413/MissionAssignments/mission4/mission4/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/parker/Desktop/SCHOOL/WINTER_2022/IS413/MissionAssignments/mission4/mission4/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/parker/Desktop/SCHOOL/WINTER_2022/IS413/MissionAssignments/mission4/mission4/obj/Debug/netcoreapp3.1/mission4.RazorTargetAssemblyInfo.cache
+/Users/parker/Desktop/SCHOOL/WINTER_2022/IS413/MissionAssignments/mission4/mission4/obj/Debug/netcoreapp3.1/mission4.RazorTargetAssemblyInfo.cs
+/Users/parker/Desktop/SCHOOL/WINTER_2022/IS413/MissionAssignments/mission4/mission4/obj/Debug/netcoreapp3.1/mission4.Views.pdb
+/Users/parker/Desktop/SCHOOL/WINTER_2022/IS413/MissionAssignments/mission4/mission4/obj/Debug/netcoreapp3.1/mission4.csproj.CopyComplete
+/Users/parker/Desktop/SCHOOL/WINTER_2022/IS413/MissionAssignments/mission4/mission4/obj/Debug/netcoreapp3.1/mission4.dll
+/Users/parker/Desktop/SCHOOL/WINTER_2022/IS413/MissionAssignments/mission4/mission4/obj/Debug/netcoreapp3.1/mission4.pdb
+/Users/parker/Desktop/SCHOOL/WINTER_2022/IS413/MissionAssignments/mission4/mission4/obj/Debug/netcoreapp3.1/mission4.genruntimeconfig.cache
+/Users/parker/Desktop/SCHOOL/WINTER_2022/IS413/MissionAssignments/mission4/mission4/bin/Debug/netcoreapp3.1/mission4.Views.dll
+/Users/parker/Desktop/SCHOOL/WINTER_2022/IS413/MissionAssignments/mission4/mission4/bin/Debug/netcoreapp3.1/mission4.Views.pdb

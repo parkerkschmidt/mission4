@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/parker/.dotnet/store/|arch|/|tfm|",
+      "/Users/parker/.nuget/packages"
+    ]
+  }
+}
