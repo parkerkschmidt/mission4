@@ -6,18 +6,17 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using mission4.Models;
+using Microsoft.EntityFrameworkCore;
 
 namespace mission4.Controllers
 {
     public class HomeController : Controller
     {
-        private readonly ILogger<HomeController> _logger;
 
         private MovieResponseContext BlahContext { get; set; }
 
-        public HomeController(ILogger<HomeController> logger, MovieResponseContext someName)
+        public HomeController(MovieResponseContext someName)
         {
-            _logger = logger;
             BlahContext = someName;
         }
 
@@ -34,23 +33,75 @@ namespace mission4.Controllers
         [HttpGet]
         public IActionResult FilmForm()
         {
-            return View();
+            ViewBag.Categories = BlahContext.Categories.ToList();
+            return View(new MovieResponse());
         }
 
         [HttpPost]
         public IActionResult FilmForm(MovieResponse response)
         {
-            BlahContext.Add(response);
+            if (ModelState.IsValid)
+            {
+                BlahContext.Add(response);
+                BlahContext.SaveChanges();
+
+                return View("Confirmation", response);
+            }
+            else
+            {
+                ViewBag.Categories = BlahContext.Categories.ToList();
+                return View(response);
+
+            }
+        }
+
+        [HttpGet]
+        public IActionResult MovieList()
+        {
+            ViewBag.Categories = BlahContext.Categories.ToList();
+            var movies = BlahContext.Responses
+            .OrderBy(x => x.Title)
+            .ToList();
+            return View(movies);
+        }
+
+        [HttpGet]
+        public IActionResult Edit(int id)
+        {
+            ViewBag.Categories = BlahContext.Categories.ToList();
+
+            var movie = BlahContext.Responses.Single(x => x.MovieID == id);
+
+            return View("FilmForm", movie);
+        }
+
+        [HttpPost]
+        public IActionResult Edit (MovieResponse blah)
+        {
+            BlahContext.Update(blah);
             BlahContext.SaveChanges();
 
-            return View("Confirmation", response);
-
+            return RedirectToAction("MovieList");
         }
 
-        [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
-        public IActionResult Error()
+        
+        [HttpGet]
+        public IActionResult Delete (int id)
         {
-            return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
+            var movie = BlahContext.Responses.Single(x => x.MovieID == id);
+
+            return View("Delete", movie);
         }
+
+        
+        [HttpPost]
+        public IActionResult Delete (MovieResponse blah)
+        {
+            BlahContext.Responses.Remove(blah);
+            BlahContext.SaveChanges();
+
+            return RedirectToAction("MovieList");
+        }
+
     }
 }

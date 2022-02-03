@@ -144,9 +144,7 @@
 /Users/parker/Desktop/SCHOOL/WINTER_2022/IS413/MissionAssignments/mission4/mission4/obj/Debug/netcoreapp3.1/Razor/Views/Home/FIlmForm.cshtml.g.cs
 /Users/parker/Desktop/SCHOOL/WINTER_2022/IS413/MissionAssignments/mission4/mission4/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
 /Users/parker/Desktop/SCHOOL/WINTER_2022/IS413/MissionAssignments/mission4/mission4/obj/Debug/netcoreapp3.1/Razor/Views/Home/Podcasts.cshtml.g.cs
-/Users/parker/Desktop/SCHOOL/WINTER_2022/IS413/MissionAssignments/mission4/mission4/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
 /Users/parker/Desktop/SCHOOL/WINTER_2022/IS413/MissionAssignments/mission4/mission4/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
-/Users/parker/Desktop/SCHOOL/WINTER_2022/IS413/MissionAssignments/mission4/mission4/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
 /Users/parker/Desktop/SCHOOL/WINTER_2022/IS413/MissionAssignments/mission4/mission4/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
 /Users/parker/Desktop/SCHOOL/WINTER_2022/IS413/MissionAssignments/mission4/mission4/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
 /Users/parker/Desktop/SCHOOL/WINTER_2022/IS413/MissionAssignments/mission4/mission4/obj/Debug/netcoreapp3.1/mission4.RazorTargetAssemblyInfo.cache
@@ -158,3 +156,5 @@
 /Users/parker/Desktop/SCHOOL/WINTER_2022/IS413/MissionAssignments/mission4/mission4/obj/Debug/netcoreapp3.1/mission4.genruntimeconfig.cache
 /Users/parker/Desktop/SCHOOL/WINTER_2022/IS413/MissionAssignments/mission4/mission4/bin/Debug/netcoreapp3.1/mission4.Views.dll
 /Users/parker/Desktop/SCHOOL/WINTER_2022/IS413/MissionAssignments/mission4/mission4/bin/Debug/netcoreapp3.1/mission4.Views.pdb
+/Users/parker/Desktop/SCHOOL/WINTER_2022/IS413/MissionAssignments/mission4/mission4/obj/Debug/netcoreapp3.1/Razor/Views/Home/MovieList.cshtml.g.cs
+/Users/parker/Desktop/SCHOOL/WINTER_2022/IS413/MissionAssignments/mission4/mission4/obj/Debug/netcoreapp3.1/Razor/Views/Home/Delete.cshtml.g.cs
