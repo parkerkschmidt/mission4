@@ -7,12 +7,18 @@
 <h1>@ViewData["Title"]</h1>
 
 <div>
-    @*<h1 class="display-4">Fill out your Application to date me.</h1>*@
     <a asp-controller="Home" asp-action="Index">Return Home</a><br /><br />
 
     <form method="post">
-        <label asp-for="Category">Category: </label>
-        <input asp-for="Category" /><br /><br />
+        <div asp-validation-summary="All"></div>
+        <label asp-for="CategoryID">Category: </label>
+        <select asp-for="CategoryID">
+            <option value="">--Select a Category--</option>
+            @foreach (Category c in ViewBag.Categories)
+            {
+                <option value="@c.CategoryID">@c.CategoryName</option>
+            }
+        </select><br /><br />
 
         <label asp-for="Title">Title: </label>
         <input asp-for="Title" /><br /><br />
@@ -33,7 +39,7 @@
             <option value="NR">Not Rated</option>
         </select><br /><br />
 
-        <label asp-for="Edited">Edited?: </label>
+        <label asp-for="Edited">Edited: </label>
         <select asp-for="Edited">
             <option value="True">Yes</option>
             <option value="False">No</option>
@@ -45,7 +51,7 @@
         <label asp-for="Notes">Notes: </label>
         <input asp-for="Notes" /><br /><br />
 
-
+        <input type="hidden" asp-for="MovieID"/>
 
         <button type="submit">Submit Movie</button>
     </form>

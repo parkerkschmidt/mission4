@@ -15,15 +15,70 @@ namespace mission4.Migrations
             modelBuilder
                 .HasAnnotation("ProductVersion", "3.1.22");
 
+            modelBuilder.Entity("mission4.Models.Category", b =>
+                {
+                    b.Property<int>("CategoryID")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("INTEGER");
+
+                    b.Property<string>("CategoryName")
+                        .HasColumnType("TEXT");
+
+                    b.HasKey("CategoryID");
+
+                    b.ToTable("Categories");
+
+                    b.HasData(
+                        new
+                        {
+                            CategoryID = 1,
+                            CategoryName = "Action/Adventure"
+                        },
+                        new
+                        {
+                            CategoryID = 2,
+                            CategoryName = "Comedy"
+                        },
+                        new
+                        {
+                            CategoryID = 3,
+                            CategoryName = "Horror/Suspense"
+                        },
+                        new
+                        {
+                            CategoryID = 4,
+                            CategoryName = "Drama"
+                        },
+                        new
+                        {
+                            CategoryID = 5,
+                            CategoryName = "Family"
+                        },
+                        new
+                        {
+                            CategoryID = 6,
+                            CategoryName = "TV"
+                        },
+                        new
+                        {
+                            CategoryID = 7,
+                            CategoryName = "VHS"
+                        },
+                        new
+                        {
+                            CategoryID = 8,
+                            CategoryName = "Misc"
+                        });
+                });
+
             modelBuilder.Entity("mission4.Models.MovieResponse", b =>
                 {
                     b.Property<int>("MovieID")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("INTEGER");
 
-                    b.Property<string>("Category")
-                        .IsRequired()
-                        .HasColumnType("TEXT");
+                    b.Property<int>("CategoryID")
+                        .HasColumnType("INTEGER");
 
                     b.Property<string>("Director")
                         .IsRequired()
@@ -36,7 +91,8 @@ namespace mission4.Migrations
                         .HasColumnType("TEXT");
 
                     b.Property<string>("Notes")
-                        .HasColumnType("TEXT");
+                        .HasColumnType("TEXT")
+                        .HasMaxLength(25);
 
                     b.Property<string>("Rating")
                         .IsRequired()
@@ -51,13 +107,15 @@ namespace mission4.Migrations
 
                     b.HasKey("MovieID");
 
+                    b.HasIndex("CategoryID");
+
                     b.ToTable("Responses");
 
                     b.HasData(
                         new
                         {
                             MovieID = 1,
-                            Category = "Action/Adventure",
+                            CategoryID = 1,
                             Director = "Robert Zemeckis",
                             Edited = false,
                             LentTo = "",
@@ -69,7 +127,7 @@ namespace mission4.Migrations
                         new
                         {
                             MovieID = 2,
-                            Category = "Comedy",
+                            CategoryID = 2,
                             Director = "Akiva Schaffer",
                             Edited = false,
                             LentTo = "",
@@ -81,7 +139,7 @@ namespace mission4.Migrations
                         new
                         {
                             MovieID = 3,
-                            Category = "Comedy",
+                            CategoryID = 2,
                             Director = "Cory Edwards",
                             Edited = false,
                             LentTo = "",
@@ -89,7 +147,28 @@ namespace mission4.Migrations
                             Rating = "PG",
                             Title = "Hoodwinked!",
                             Year = 2005
+                        },
+                        new
+                        {
+                            MovieID = 4,
+                            CategoryID = 2,
+                            Director = "Taika Waititi",
+                            Edited = false,
+                            LentTo = "",
+                            Notes = "",
+                            Rating = "PG-13",
+                            Title = "Hunt for the Wilderpeople",
+                            Year = 2016
                         });
+                });
+
+            modelBuilder.Entity("mission4.Models.MovieResponse", b =>
+                {
+                    b.HasOne("mission4.Models.Category", "Category")
+                        .WithMany()
+                        .HasForeignKey("CategoryID")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
                 });
 #pragma warning restore 612, 618
         }
